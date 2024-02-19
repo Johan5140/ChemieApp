@@ -1,0 +1,23 @@
+﻿<infooprvku>
+	<!--Vodík-->
+	<vodik Sekce="Název" Info="Vodík" />
+	<vodik Sekce="Chemická značka" Info="H" />
+	<vodik Sekce="Protonové číslo" Info="1" />
+	<vodik Sekce="Latinsky" Info="Hydrogenium" />
+	<vodik Sekce="Skupina" Info="1. skupina" />
+	<vodik Sekce="Perioda" Info="1. perioda" />
+	<vodik Sekce="Vzhled" Info="Bezbarvý plyn" />
+	<vodik Sekce="Relativní atomová hmotnost" Info="1,007 94" />
+	<!--Lithium-->
+	<lithium Sekce="Název" Info="Lithium" />
+	<lithium Sekce="Chemická značka" Info="Li" />
+	<lithium Sekce="Protonové číslo" Info="3" />
+	<lithium Sekce="Latinsky" Info="Lithium" />
+	<lithium Sekce="Skupina" Info="1. skupina" />
+	<lithium Sekce="Perioda" Info="2. perioda" />
+	<lithium Sekce="Vzhled" Info="Stříbřitě kovová látka" />
+	<lithium Sekce="Relativní atomová hmotnost" Info="6.941" />
+	<!--Sodík-->
+
+	<!--Draslík-->
+</infooprvku>
