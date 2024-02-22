@@ -32,6 +32,19 @@ namespace ChemieApp
             label2.BackColor = Color.Transparent;
             this.label2.Text = kodprvku;
 
+            var xml = XDocument.Parse(Resources.prvky);
+            // creating an empty DataSet object
+            DataSet dataSet = new DataSet();
+            // filling DataSet with the xml read
+            dataSet.ReadXml(xml.CreateReader());
+
+            var ds = new DataSet();
+            //ds.ReadXml(Properties.Resources.Vodik.xml);
+            this.dataGridView1.DataSource = dataSet.Tables[kodprvku]; //Tables[0]
+
+            this.dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            this.dataGridView1.ColumnHeadersVisible = false;
+
         }
         private void button1_Click(object sender, EventArgs e)
 {
