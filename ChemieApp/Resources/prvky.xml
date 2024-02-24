@@ -6,7 +6,7 @@
 	<Vodík Sekce="Latinsky" Info="Hydrogenium" />
 	<Vodík Sekce="Skupina" Info="1. skupina" />
 	<Vodík Sekce="Perioda" Info="1. perioda" />
-	<Vodík Sekce="Vzhled" Info="Bezbarvý plyn" />
+	<Vodík Sekce="Vlastnosti" Info="Bezbarvý plyn" />
 	<Vodík Sekce="Relativní atomová hmotnost" Info="1,007 94" />
 	<!--Lithium-->
 	<Lithium Sekce="Název" Info="Lithium" />
@@ -15,9 +15,2049 @@
 	<Lithium Sekce="Latinsky" Info="Lithium" />
 	<Lithium Sekce="Skupina" Info="1. skupina" />
 	<Lithium Sekce="Perioda" Info="2. perioda" />
-	<Lithium Sekce="Vzhled" Info="Stříbřitě kovová látka" />
-	<Lithium Sekce="Relativní atomová hmotnost" Info="6.941" />
+	<Lithium Sekce="Vlastnosti" Info="Stříbřitě kovová látka" />
+	<Lithium Sekce="Relativní atomová hmotnost" Info="6,941" />
 	<!--Sodík-->
-
+	<Sodík Sekce="Název" Info="Sodík" />
+	<Sodík Sekce="Chemická značka" Info="Na" />
+	<Sodík Sekce="Protonové číslo" Info="11" />
+	<Sodík Sekce="Latinsky" Info="Natrium" />
+	<Sodík Sekce="Skupina" Info="1. skupina" />
+	<Sodík Sekce="Perioda" Info="3. perioda" />
+	<Sodík Sekce="Vlastnosti" Info="Stříbrolesklý kov" />
+	<Sodík Sekce="Relativní atomová hmotnost" Info="22,98976828" />
 	<!--Draslík-->
+	<Draslík Sekce="Název" Info="Draslík" />
+	<Draslík Sekce="Chemická značka" Info="K" />
+	<Draslík Sekce="Protonové číslo" Info="19" />
+	<Draslík Sekce="Latinsky" Info="Kalium" />
+	<Draslík Sekce="Skupina" Info="1. skupina" />
+	<Draslík Sekce="Perioda" Info="4. perioda" />
+	<Draslík Sekce="Vlastnosti" Info="Stříbrolesklý kov" />
+	<Draslík Sekce="Relativní atomová hmotnost" Info="39,0983" />
+	<!--Rubidium-->
+	<Rubidium Sekce="Název" Info="Rubidium" />
+	<Rubidium Sekce="Chemická značka" Info="Rb" />
+	<Rubidium Sekce="Protonové číslo" Info="37" />
+	<Rubidium Sekce="Latinsky" Info="Rubidium" />
+	<Rubidium Sekce="Skupina" Info="1. skupina" />
+	<Rubidium Sekce="Perioda" Info="5. perioda" />
+	<Rubidium Sekce="Vlastnosti" Info="Měkký, lehký a stříbrolesklý kov, který lze krájet nožem" />
+	<Rubidium Sekce="Relativní atomová hmotnost" Info="85,4678" />
+	<!--Cesium-->
+	<Cesium Sekce="Název" Info="Cesium" />
+	<Cesium Sekce="Chemická značka" Info="Cs" />
+	<Cesium Sekce="Protonové číslo" Info="55" />
+	<Cesium Sekce="Latinsky" Info="Caesium" />
+	<Cesium Sekce="Skupina" Info="1. skupina" />
+	<Cesium Sekce="Perioda" Info="6. perioda" />
+	<Cesium Sekce="Vlastnosti" Info="Stříbrozlatá látka" />
+	<Cesium Sekce="Relativní atomová hmotnost" Info="132,905" />
+	<!--Francium-->
+	<Francium Sekce="Název" Info="Francium" />
+	<Francium Sekce="Chemická značka" Info="Fr" />
+	<Francium Sekce="Protonové číslo" Info="87" />
+	<Francium Sekce="Latinsky" Info="Francium" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="Stříbrný radioaktivní kov" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="(233,019 8)" />
+	<!--Beryllium-->
+	<Beryllium Sekce="Název" Info="Beryllium" />
+	<Beryllium Sekce="Chemická značka" Info="Be" />
+	<Beryllium Sekce="Protonové číslo" Info="4" />
+	<Beryllium Sekce="Latinsky" Info="Beryllium" />
+	<Beryllium Sekce="Skupina" Info="2. skupina" />
+	<Beryllium Sekce="Perioda" Info="2. perioda" />
+	<Beryllium Sekce="Vlastnosti" Info="Šedý kov" />
+	<Beryllium Sekce="Relativní atomová hmotnost" Info="9,012182" />
+	<!--Hořčík-->
+	<Hořčík Sekce="Název" Info="Hořčík" />
+	<Hořčík Sekce="Chemická značka" Info="Mg" />
+	<Hořčík Sekce="Protonové číslo" Info="12" />
+	<Hořčík Sekce="Latinsky" Info="Magnesium" />
+	<Hořčík Sekce="Skupina" Info="2. skupina" />
+	<Hořčík Sekce="Perioda" Info="3. perioda" />
+	<Hořčík Sekce="Vlastnosti" Info="Našedlá kovová látka" />
+	<Hořčík Sekce="Relativní atomová hmotnost" Info="24,3050" />
+	<!--Vápník-->
+	<Vápník Sekce="Název" Info="Vápník" />
+	<Vápník Sekce="Chemická značka" Info="Ca" />
+	<Vápník Sekce="Protonové číslo" Info="20" />
+	<Vápník Sekce="Latinsky" Info="Calcium" />
+	<Vápník Sekce="Skupina" Info="2. skupina" />
+	<Vápník Sekce="Perioda" Info="4. perioda" />
+	<Vápník Sekce="Vlastnosti" Info="Stříbrolesklý" />
+	<Vápník Sekce="Relativní atomová hmotnost" Info="40,078 ± 0,004" />	
+	<!--Stroncium-->
+	<Stroncium Sekce="Název" Info="Stroncium" />
+	<Stroncium Sekce="Chemická značka" Info="Sr" />
+	<Stroncium Sekce="Protonové číslo" Info="38" />
+	<Stroncium Sekce="Latinsky" Info="Strontium" />
+	<Stroncium Sekce="Skupina" Info="2. skupina" />
+	<Stroncium Sekce="Perioda" Info="5. perioda" />
+	<Stroncium Sekce="Vlastnosti" Info="Stříbrolesklý bílý kov" />
+	<Stroncium Sekce="Relativní atomová hmotnost" Info="87,62" />
+	<!--Baryum-->
+	<Baryum Sekce="Název" Info="Baryum" />
+	<Baryum Sekce="Chemická značka" Info="Ba" />
+	<Baryum Sekce="Protonové číslo" Info="56" />
+	<Baryum Sekce="Latinsky" Info="Barium" />
+	<Baryum Sekce="Skupina" Info="2. skupina" />
+	<Baryum Sekce="Perioda" Info="6. perioda" />
+	<Baryum Sekce="Vlastnosti" Info="Stříbrobílý kov" />
+	<Baryum Sekce="Relativní atomová hmotnost" Info="137,33" />
+	<!--Radium-->
+	<Radium Sekce="Název" Info="Radium" />
+	<Radium Sekce="Chemická značka" Info="Ra" />
+	<Radium Sekce="Protonové číslo" Info="88" />
+	<Radium Sekce="Latinsky" Info="Radium" />
+	<Radium Sekce="Skupina" Info="2. skupina" />
+	<Radium Sekce="Perioda" Info="7. perioda" />
+	<Radium Sekce="Vlastnosti" Info="Stříbrobílý kov, radioaktivní" />
+	<Radium Sekce="Relativní atomová hmotnost" Info="(226,025 4)" />
+	<!--Skandium-->
+	<Skandium Sekce="Název" Info="Skandium" />
+	<Skandium Sekce="Chemická značka" Info="Sc" />
+	<Skandium Sekce="Protonové číslo" Info="21" />
+	<Skandium Sekce="Latinsky" Info="Scandium" />
+	<Skandium Sekce="Skupina" Info="3. skupina" />
+	<Skandium Sekce="Perioda" Info="4. perioda" />
+	<Skandium Sekce="Vlastnosti" Info="Stříbřitě bílý, měkký a výrazně lehký kovov" />
+	<Skandium Sekce="Relativní atomová hmotnost" Info="44,9559" />
+	<!--Yttrium-->
+	<Yttrium Sekce="Název" Info="Yttrium" />
+	<Yttrium Sekce="Chemická značka" Info="Y" />
+	<Yttrium Sekce="Protonové číslo" Info="39" />
+	<Yttrium Sekce="Latinsky" Info="Yttrium" />
+	<Yttrium Sekce="Skupina" Info="3. skupina" />
+	<Yttrium Sekce="Perioda" Info="5. perioda" />
+	<Yttrium Sekce="Vlastnosti" Info="Šedý až stříbřitě bílý přechodný kov" />
+	<Yttrium Sekce="Relativní atomová hmotnost" Info="88,90585" />
+	<!--Titan-->
+	<Titan Sekce="Název" Info="Titan" />
+	<Titan Sekce="Chemická značka" Info="Ti" />
+	<Titan Sekce="Protonové číslo" Info="22" />
+	<Titan Sekce="Latinsky" Info="Titanium" />
+	<Titan Sekce="Skupina" Info="4. skupina" />
+	<Titan Sekce="Perioda" Info="4. perioda" />
+	<Titan Sekce="Vlastnosti" Info="Šedý až stříbřitě bílý, lehký kov" />
+	<Titan Sekce="Relativní atomová hmotnost" Info="47,867" />
+	<!--Zirkonium-->
+	<Zirkonium Sekce="Název" Info="Zirkonium" />
+	<Zirkonium Sekce="Chemická značka" Info="Zr" />
+	<Zirkonium Sekce="Protonové číslo" Info="40" />
+	<Zirkonium Sekce="Latinsky" Info="Zirconium" />
+	<Zirkonium Sekce="Skupina" Info="4. skupina" />
+	<Zirkonium Sekce="Perioda" Info="5. perioda" />
+	<Zirkonium Sekce="Vlastnosti" Info="Šedý až stříbřitě bílý, kovový prvek" />
+	<Zirkonium Sekce="Relativní atomová hmotnost" Info="91,224" />
+	<!--Hafnium-->
+	<Hafnium Sekce="Název" Info="Hafnium" />
+	<Hafnium Sekce="Chemická značka" Info="Hf" />
+	<Hafnium Sekce="Protonové číslo" Info="72" />
+	<Hafnium Sekce="Latinsky" Info="Hafnium" />
+	<Hafnium Sekce="Skupina" Info="4. skupina" />
+	<Hafnium Sekce="Perioda" Info="6. perioda" />
+	<Hafnium Sekce="Vlastnosti" Info="Šedý kov" />
+	<Hafnium Sekce="Relativní atomová hmotnost" Info="178,49" />
+	<!--Rutherfordium-->
+	<Rutherfordium Sekce="Název" Info="Rutherfordium" />
+	<Rutherfordium Sekce="Chemická značka" Info="Rf" />
+	<Rutherfordium Sekce="Protonové číslo" Info="104" />
+	<Rutherfordium Sekce="Latinsky" Info="Rutherfordium" />
+	<Rutherfordium Sekce="Skupina" Info="4. skupina" />
+	<Rutherfordium Sekce="Perioda" Info="7. perioda" />
+	<Rutherfordium Sekce="Vlastnosti" Info="Radioaktivní" />
+	<Rutherfordium Sekce="Relativní atomová hmotnost" Info="265,12" />
+	<!--Vanad-->
+	<Vanad Sekce="Název" Info="Vanad" />
+	<Vanad Sekce="Chemická značka" Info="V" />
+	<Vanad Sekce="Protonové číslo" Info="23" />
+	<Vanad Sekce="Latinsky" Info="Vanadium" />
+	<Vanad Sekce="Skupina" Info="5. skupina" />
+	<Vanad Sekce="Perioda" Info="4. perioda" />
+	<Vanad Sekce="Vlastnosti" Info="Šedo-bílý kov" />
+	<Vanad Sekce="Relativní atomová hmotnost" Info="50,9415" />
+	<!--Niob-->
+	<Niob Sekce="Název" Info="Niob" />
+	<Niob Sekce="Chemická značka" Info="Nb" />
+	<Niob Sekce="Protonové číslo" Info="41" />
+	<Niob Sekce="Latinsky" Info="Niobium" />
+	<Niob Sekce="Skupina" Info="5. skupina" />
+	<Niob Sekce="Perioda" Info="5. perioda" />
+	<Niob Sekce="Vlastnosti" Info="Šedý kujný kov" />
+	<Niob Sekce="Relativní atomová hmotnost" Info="92,9063" />
+	<!--Tantal-->
+	<Tantal Sekce="Název" Info="Tantal" />
+	<Tantal Sekce="Chemická značka" Info="Ta" />
+	<Tantal Sekce="Protonové číslo" Info="73" />
+	<Tantal Sekce="Latinsky" Info="Tantalum" />
+	<Tantal Sekce="Skupina" Info="5. skupina" />
+	<Tantal Sekce="Perioda" Info="6. perioda" />
+	<Tantal Sekce="Vlastnosti" Info="Šedý kov" />
+	<Tantal Sekce="Relativní atomová hmotnost" Info="180,9479" />
+	<!--Dubnium-->
+	<Dubnium Sekce="Název" Info="Dubnium" />
+	<Dubnium Sekce="Chemická značka" Info="Db" />
+	<Dubnium Sekce="Protonové číslo" Info="105" />
+	<Dubnium Sekce="Latinsky" Info="Dubnium" />
+	<Dubnium Sekce="Skupina" Info="5. skupina" />
+	<Dubnium Sekce="Perioda" Info="7. perioda" />
+	<Dubnium Sekce="Vlastnosti" Info="Umělý radioaktivní prvek" />
+	<Dubnium Sekce="Relativní atomová hmotnost" Info="268,13" />
+	<!--Chrom-->
+	<Chrom Sekce="Název" Info="Chrom" />
+	<Chrom Sekce="Chemická značka" Info="Cr" />
+	<Chrom Sekce="Protonové číslo" Info="24" />
+	<Chrom Sekce="Latinsky" Info="Chromium" />
+	<Chrom Sekce="Skupina" Info="6. skupina" />
+	<Chrom Sekce="Perioda" Info="4. perioda" />
+	<Chrom Sekce="Vlastnosti" Info="Světle bílý, lesklý, velmi tvrdý a zároveň křehký kov" />
+	<Chrom Sekce="Relativní atomová hmotnost" Info="51,9961" />
+	<!--Molybden-->
+	<Molybden Sekce="Název" Info="Molybden" />
+	<Molybden Sekce="Chemická značka" Info="Mo" />
+	<Molybden Sekce="Protonové číslo" Info="42" />
+	<Molybden Sekce="Latinsky" Info="Molybdaenum" />
+	<Molybden Sekce="Skupina" Info="6. skupina" />
+	<Molybden Sekce="Perioda" Info="5. perioda" />
+	<Molybden Sekce="Vlastnosti" Info="Šedobílý, tvrdý a křehký kov" />
+	<Molybden Sekce="Relativní atomová hmotnost" Info="95,96" />
+	<!--Wolfram-->
+	<Wolfram Sekce="Název" Info="Wolfram" />
+	<Wolfram Sekce="Chemická značka" Info="W" />
+	<Wolfram Sekce="Protonové číslo" Info="74" />
+	<Wolfram Sekce="Latinsky" Info="Wolframium" />
+	<Wolfram Sekce="Skupina" Info="6. skupina" />
+	<Wolfram Sekce="Perioda" Info="6. perioda" />
+	<Wolfram Sekce="Vlastnosti" Info="Světle šedý až bílý lesklý kov" />
+	<Wolfram Sekce="Relativní atomová hmotnost" Info="183,84" />
+	<!--Seaborgium-->
+	<Seaborgium Sekce="Název" Info="Seaborgium" />
+	<Seaborgium Sekce="Chemická značka" Info="Sg" />
+	<Seaborgium Sekce="Protonové číslo" Info="106" />
+	<Seaborgium Sekce="Latinsky" Info="Seaborgium" />
+	<Seaborgium Sekce="Skupina" Info="6. skupina" />
+	<Seaborgium Sekce="Perioda" Info="7. perioda" />
+	<Seaborgium Sekce="Vlastnosti" Info="Umělý radioaktivní prvek" />
+	<Seaborgium Sekce="Relativní atomová hmotnost" Info="271,13" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
+	<!--Draslík-->
+	<Francium Sekce="Název" Info="" />
+	<Francium Sekce="Chemická značka" Info="" />
+	<Francium Sekce="Protonové číslo" Info="" />
+	<Francium Sekce="Latinsky" Info="" />
+	<Francium Sekce="Skupina" Info="1. skupina" />
+	<Francium Sekce="Perioda" Info="7. perioda" />
+	<Francium Sekce="Vlastnosti" Info="" />
+	<Francium Sekce="Relativní atomová hmotnost" Info="" />
 </infooprvku>
