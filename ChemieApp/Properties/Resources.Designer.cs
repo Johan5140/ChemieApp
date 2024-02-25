@@ -61,19 +61,29 @@ namespace ChemieApp.Properties {
         }
         
         /// <summary>
+        ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap bg {
+            get {
+                object obj = ResourceManager.GetObject("bg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Vyhledá lokalizovaný řetězec podobný &lt;infooprvku&gt;
         ///	&lt;!--Vodík--&gt;
-        ///	&lt;vodik Sekce=&quot;Název&quot; Info=&quot;Vodík&quot; /&gt;
-        ///	&lt;vodik Sekce=&quot;Chemická značka&quot; Info=&quot;H&quot; /&gt;
-        ///	&lt;vodik Sekce=&quot;Protonové číslo&quot; Info=&quot;1&quot; /&gt;
-        ///	&lt;vodik Sekce=&quot;Latinsky&quot; Info=&quot;Hydrogenium&quot; /&gt;
-        ///	&lt;vodik Sekce=&quot;Skupina&quot; Info=&quot;1. skupina&quot; /&gt;
-        ///	&lt;vodik Sekce=&quot;Perioda&quot; Info=&quot;1. perioda&quot; /&gt;
-        ///	&lt;vodik Sekce=&quot;Vzhled&quot; Info=&quot;Bezbarvý plyn&quot; /&gt;
-        ///	&lt;vodik Sekce=&quot;Relativní atomová hmotnost&quot; Info=&quot;1,007 94&quot; /&gt;
+        ///	&lt;Vodík Sekce=&quot;Název&quot; Info=&quot;Vodík&quot; /&gt;
+        ///	&lt;Vodík Sekce=&quot;Chemická značka&quot; Info=&quot;H&quot; /&gt;
+        ///	&lt;Vodík Sekce=&quot;Protonové číslo&quot; Info=&quot;1&quot; /&gt;
+        ///	&lt;Vodík Sekce=&quot;Latinsky&quot; Info=&quot;Hydrogenium&quot; /&gt;
+        ///	&lt;Vodík Sekce=&quot;Skupina&quot; Info=&quot;1. skupina&quot; /&gt;
+        ///	&lt;Vodík Sekce=&quot;Perioda&quot; Info=&quot;1. perioda&quot; /&gt;
+        ///	&lt;Vodík Sekce=&quot;Vlastnosti&quot; Info=&quot;Bezbarvý plyn&quot; /&gt;
+        ///	&lt;Vodík Sekce=&quot;Relativní atomová hmotnost&quot; Info=&quot;1,007 94&quot; /&gt;
         ///	&lt;!--Lithium--&gt;
-        ///	&lt;lithium Sekce=&quot;Název&quot; Info=&quot;Lithium&quot; /&gt;
-        ///	&lt;lithium Sekce=&quot;Chemická značka&quot; Info=&quot;Li&quot; [zbytek řetězce byl zkrácen];.
+        ///	&lt;Lithium Sekce=&quot;Název&quot; Info=&quot;Lithium&quot; /&gt;
+        ///	&lt;Lithium Sekce=&quot;Chemická značka&quot; Info= [zbytek řetězce byl zkrácen];.
         /// </summary>
         internal static string prvky {
             get {

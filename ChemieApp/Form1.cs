@@ -17,6 +17,12 @@ namespace ChemieApp
         public Form1()
         {
             InitializeComponent();
+            var labels = Controls.OfType<Label>().Where(x => x.Name.StartsWith("label"));
+            foreach (var label in labels)
+            {
+                label.BackColor = Color.Transparent;
+            }
+
         }
 
         private void button1_Click(object sender, EventArgs e)
