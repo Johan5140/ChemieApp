@@ -19,7 +19,6 @@ namespace ChemieApp
             this.labelVersion.Text = String.Format("Verze {0}", AssemblyVersion);
             this.labelCopyright.Text = AssemblyCopyright;
             this.labelCompanyName.Text = AssemblyCompany;
-            //this.textBoxDescription.Text = AssemblyDescription;
         }
 
         #region Přístup k atributům sestavení
@@ -101,5 +100,19 @@ namespace ChemieApp
             }
         }
         #endregion
+
+        private void okButton_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+        protected override bool ProcessDialogKey(Keys keyData)
+        {
+            if (Form.ModifierKeys == Keys.None && keyData == Keys.Escape)
+            {
+                this.Close();
+                return true;
+            }
+            return base.ProcessDialogKey(keyData);
+        }
     }
 }

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -192,14 +193,14 @@
             this.label43 = new System.Windows.Forms.Label();
             this.label44 = new System.Windows.Forms.Label();
             this.label45 = new System.Windows.Forms.Label();
-            this.label46 = new System.Windows.Forms.Label();
-            this.label47 = new System.Windows.Forms.Label();
-            this.label48 = new System.Windows.Forms.Label();
-            this.label49 = new System.Windows.Forms.Label();
-            this.label50 = new System.Windows.Forms.Label();
-            this.label51 = new System.Windows.Forms.Label();
-            this.label52 = new System.Windows.Forms.Label();
-            this.label53 = new System.Windows.Forms.Label();
+            this.info1 = new System.Windows.Forms.Label();
+            this.info6 = new System.Windows.Forms.Label();
+            this.info2 = new System.Windows.Forms.Label();
+            this.info3 = new System.Windows.Forms.Label();
+            this.info4 = new System.Windows.Forms.Label();
+            this.info5 = new System.Windows.Forms.Label();
+            this.info7 = new System.Windows.Forms.Label();
+            this.info8 = new System.Windows.Forms.Label();
             this.button120 = new System.Windows.Forms.Button();
             this.button121 = new System.Windows.Forms.Button();
             this.button122 = new System.Windows.Forms.Button();
@@ -2293,94 +2294,94 @@
             this.label45.TabIndex = 163;
             this.label45.Text = "VIII. A";
             // 
-            // label46
+            // info1
             // 
-            this.label46.AutoSize = true;
-            this.label46.BackColor = System.Drawing.Color.Lime;
-            this.label46.Font = new System.Drawing.Font("Segoe UI Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label46.Location = new System.Drawing.Point(60, 614);
-            this.label46.Name = "label46";
-            this.label46.Size = new System.Drawing.Size(121, 25);
-            this.label46.TabIndex = 164;
-            this.label46.Text = "Alkalické kovy";
+            this.info1.AutoSize = true;
+            this.info1.BackColor = System.Drawing.Color.Lime;
+            this.info1.Font = new System.Drawing.Font("Segoe UI Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.info1.Location = new System.Drawing.Point(60, 614);
+            this.info1.Name = "info1";
+            this.info1.Size = new System.Drawing.Size(121, 25);
+            this.info1.TabIndex = 164;
+            this.info1.Text = "Alkalické kovy";
             // 
-            // label47
+            // info6
             // 
-            this.label47.AutoSize = true;
-            this.label47.BackColor = System.Drawing.Color.Yellow;
-            this.label47.Font = new System.Drawing.Font("Segoe UI Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label47.Location = new System.Drawing.Point(677, 614);
-            this.label47.Name = "label47";
-            this.label47.Size = new System.Drawing.Size(72, 25);
-            this.label47.TabIndex = 165;
-            this.label47.Text = "Nekovy";
+            this.info6.AutoSize = true;
+            this.info6.BackColor = System.Drawing.Color.Yellow;
+            this.info6.Font = new System.Drawing.Font("Segoe UI Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.info6.Location = new System.Drawing.Point(677, 614);
+            this.info6.Name = "info6";
+            this.info6.Size = new System.Drawing.Size(72, 25);
+            this.info6.TabIndex = 165;
+            this.info6.Text = "Nekovy";
             // 
-            // label48
+            // info2
             // 
-            this.label48.AutoSize = true;
-            this.label48.BackColor = System.Drawing.Color.Maroon;
-            this.label48.Font = new System.Drawing.Font("Segoe UI Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label48.ForeColor = System.Drawing.Color.White;
-            this.label48.Location = new System.Drawing.Point(187, 614);
-            this.label48.Name = "label48";
-            this.label48.Size = new System.Drawing.Size(191, 25);
-            this.label48.TabIndex = 166;
-            this.label48.Text = "Kovy alkalických zemin";
+            this.info2.AutoSize = true;
+            this.info2.BackColor = System.Drawing.Color.Maroon;
+            this.info2.Font = new System.Drawing.Font("Segoe UI Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.info2.ForeColor = System.Drawing.Color.White;
+            this.info2.Location = new System.Drawing.Point(187, 614);
+            this.info2.Name = "info2";
+            this.info2.Size = new System.Drawing.Size(191, 25);
+            this.info2.TabIndex = 166;
+            this.info2.Text = "Kovy alkalických zemin";
             // 
-            // label49
+            // info3
             // 
-            this.label49.AutoSize = true;
-            this.label49.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.label49.Font = new System.Drawing.Font("Segoe UI Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label49.Location = new System.Drawing.Point(384, 614);
-            this.label49.Name = "label49";
-            this.label49.Size = new System.Drawing.Size(140, 25);
-            this.label49.TabIndex = 167;
-            this.label49.Text = "Přechodné kovy";
+            this.info3.AutoSize = true;
+            this.info3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.info3.Font = new System.Drawing.Font("Segoe UI Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.info3.Location = new System.Drawing.Point(384, 614);
+            this.info3.Name = "info3";
+            this.info3.Size = new System.Drawing.Size(140, 25);
+            this.info3.TabIndex = 167;
+            this.info3.Text = "Přechodné kovy";
             // 
-            // label50
+            // info4
             // 
-            this.label50.AutoSize = true;
-            this.label50.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
-            this.label50.Font = new System.Drawing.Font("Segoe UI Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label50.Location = new System.Drawing.Point(530, 614);
-            this.label50.Name = "label50";
-            this.label50.Size = new System.Drawing.Size(51, 25);
-            this.label50.TabIndex = 168;
-            this.label50.Text = "Kovy";
+            this.info4.AutoSize = true;
+            this.info4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.info4.Font = new System.Drawing.Font("Segoe UI Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.info4.Location = new System.Drawing.Point(530, 614);
+            this.info4.Name = "info4";
+            this.info4.Size = new System.Drawing.Size(51, 25);
+            this.info4.TabIndex = 168;
+            this.info4.Text = "Kovy";
             // 
-            // label51
+            // info5
             // 
-            this.label51.AutoSize = true;
-            this.label51.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
-            this.label51.Font = new System.Drawing.Font("Segoe UI Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label51.Location = new System.Drawing.Point(587, 614);
-            this.label51.Name = "label51";
-            this.label51.Size = new System.Drawing.Size(84, 25);
-            this.label51.TabIndex = 169;
-            this.label51.Text = "Polokovy";
+            this.info5.AutoSize = true;
+            this.info5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.info5.Font = new System.Drawing.Font("Segoe UI Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.info5.Location = new System.Drawing.Point(587, 614);
+            this.info5.Name = "info5";
+            this.info5.Size = new System.Drawing.Size(84, 25);
+            this.info5.TabIndex = 169;
+            this.info5.Text = "Polokovy";
             // 
-            // label52
+            // info7
             // 
-            this.label52.AutoSize = true;
-            this.label52.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.label52.Font = new System.Drawing.Font("Segoe UI Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label52.Location = new System.Drawing.Point(755, 614);
-            this.label52.Name = "label52";
-            this.label52.Size = new System.Drawing.Size(89, 25);
-            this.label52.TabIndex = 170;
-            this.label52.Text = "Halogeny";
+            this.info7.AutoSize = true;
+            this.info7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.info7.Font = new System.Drawing.Font("Segoe UI Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.info7.Location = new System.Drawing.Point(755, 614);
+            this.info7.Name = "info7";
+            this.info7.Size = new System.Drawing.Size(89, 25);
+            this.info7.TabIndex = 170;
+            this.info7.Text = "Halogeny";
             // 
-            // label53
+            // info8
             // 
-            this.label53.AutoSize = true;
-            this.label53.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.label53.Font = new System.Drawing.Font("Segoe UI Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label53.Location = new System.Drawing.Point(850, 614);
-            this.label53.Name = "label53";
-            this.label53.Size = new System.Drawing.Size(117, 25);
-            this.label53.TabIndex = 171;
-            this.label53.Text = "Vzácné plyny";
+            this.info8.AutoSize = true;
+            this.info8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.info8.Font = new System.Drawing.Font("Segoe UI Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.info8.Location = new System.Drawing.Point(850, 614);
+            this.info8.Name = "info8";
+            this.info8.Size = new System.Drawing.Size(117, 25);
+            this.info8.TabIndex = 171;
+            this.info8.Text = "Vzácné plyny";
             // 
             // button120
             // 
@@ -2430,19 +2431,27 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(1024, 768);
+            this.Controls.Add(this.label7);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.button123);
             this.Controls.Add(this.button122);
             this.Controls.Add(this.button121);
             this.Controls.Add(this.button120);
-            this.Controls.Add(this.label53);
-            this.Controls.Add(this.label52);
-            this.Controls.Add(this.label51);
-            this.Controls.Add(this.label50);
-            this.Controls.Add(this.label49);
-            this.Controls.Add(this.label48);
-            this.Controls.Add(this.label47);
-            this.Controls.Add(this.label46);
+            this.Controls.Add(this.info8);
+            this.Controls.Add(this.info7);
+            this.Controls.Add(this.info5);
+            this.Controls.Add(this.info4);
+            this.Controls.Add(this.info3);
+            this.Controls.Add(this.info2);
+            this.Controls.Add(this.info6);
+            this.Controls.Add(this.info1);
             this.Controls.Add(this.label45);
             this.Controls.Add(this.label44);
             this.Controls.Add(this.label43);
@@ -2481,13 +2490,6 @@
             this.Controls.Add(this.label10);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.label8);
-            this.Controls.Add(this.label7);
-            this.Controls.Add(this.label6);
-            this.Controls.Add(this.label5);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.button119);
             this.Controls.Add(this.button118);
             this.Controls.Add(this.button117);
@@ -2782,14 +2784,14 @@
         private System.Windows.Forms.Label label43;
         private System.Windows.Forms.Label label44;
         private System.Windows.Forms.Label label45;
-        private System.Windows.Forms.Label label46;
-        private System.Windows.Forms.Label label47;
-        private System.Windows.Forms.Label label48;
-        private System.Windows.Forms.Label label49;
-        private System.Windows.Forms.Label label50;
-        private System.Windows.Forms.Label label51;
-        private System.Windows.Forms.Label label52;
-        private System.Windows.Forms.Label label53;
+        private System.Windows.Forms.Label info1;
+        private System.Windows.Forms.Label info6;
+        private System.Windows.Forms.Label info2;
+        private System.Windows.Forms.Label info3;
+        private System.Windows.Forms.Label info4;
+        private System.Windows.Forms.Label info5;
+        private System.Windows.Forms.Label info7;
+        private System.Windows.Forms.Label info8;
         private System.Windows.Forms.Button button120;
         private System.Windows.Forms.Button button121;
         private System.Windows.Forms.Button button122;
