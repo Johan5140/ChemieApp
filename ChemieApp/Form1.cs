@@ -17,12 +17,24 @@ namespace ChemieApp
         public Form1()
         {
             InitializeComponent();
+
             var labels = Controls.OfType<Label>().Where(x => x.Name.StartsWith("label"));
             foreach (var label in labels)
             {
                 label.BackColor = Color.Transparent;
             }
 
+        }
+        protected override void OnMouseDown(MouseEventArgs e)
+
+        {
+            base.OnMouseDown(e);
+            if (e.Button == MouseButtons.Left)
+            {
+                this.Capture = false;
+                Message msg = Message.Create(this.Handle, 0XA1, new IntPtr(2), IntPtr.Zero);
+                this.WndProc(ref msg);
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
