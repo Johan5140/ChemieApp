@@ -1,24 +1,31 @@
-﻿using System;
+﻿using ChemieApp.Properties;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Reflection;
+using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace ChemieApp
 {
-    partial class AboutBox1 : Form
+    public partial class aboutapp : Form
     {
-        public AboutBox1()
+        public aboutapp()
         {
             InitializeComponent();
+            label1.Parent = pictureBox1;
+            label1.BackColor = Color.Transparent;
             this.Text = String.Format("O aplikaci {0}", AssemblyTitle);
-            this.labelProductName.Text = AssemblyProduct;
-            this.labelVersion.Text = String.Format("Verze {0}", AssemblyVersion);
-            this.labelCopyright.Text = AssemblyCopyright;
-            this.labelCompanyName.Text = AssemblyCompany;
+            this.label2.Text = AssemblyProduct;
+            this.label3.Text = String.Format("Verze {0}", AssemblyVersion);
+            this.label4.Text = AssemblyCopyright;
+            this.label5.Text = "Aplikace je ve vývoji a nemusí fungovat správně!";
+            this.richTextBox1.SelectAll();
+            this.richTextBox1.SelectedText = Properties.Resources.info;
         }
 
         #region Přístup k atributům sestavení
@@ -101,10 +108,11 @@ namespace ChemieApp
         }
         #endregion
 
-        private void okButton_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
             this.Close();
         }
+        //Uzavření okna pomocí klávesy ESC
         protected override bool ProcessDialogKey(Keys keyData)
         {
             if (Form.ModifierKeys == Keys.None && keyData == Keys.Escape)

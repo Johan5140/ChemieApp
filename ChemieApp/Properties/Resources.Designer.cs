@@ -71,6 +71,25 @@ namespace ChemieApp.Properties {
         }
         
         /// <summary>
+        ///   Vyhledá lokalizovaný řetězec podobný Projekt aplikace Chemie.
+        ///Informace o prvcích pochází z webu Wikipedia.
+        ///
+        ///Změny:
+        ///------
+        ///1) Vylepšený design aplikace
+        ///2) Nové okno &quot;O aplikaci&quot;
+        ///3) Možnost zavírat okna &quot;O aplikaci&quot; a &quot;Info o prvku&quot; pomocí klávesy ESC.
+        ///4) Možnost přesouvání hlavního okna aplikace po obrazovce
+        ///5) Lepší vykreslování
+        ///.
+        /// </summary>
+        internal static string info {
+            get {
+                return ResourceManager.GetString("info", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Vyhledá lokalizovaný řetězec podobný &lt;infooprvku&gt;
         ///	&lt;!--Vodík--&gt;
         ///	&lt;Vodík Sekce=&quot;Název&quot; Info=&quot;Vodík&quot; /&gt;
