@@ -5,6 +5,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -18,13 +19,15 @@ namespace ChemieApp
         {
             InitializeComponent();
 
-            var labels = Controls.OfType<Label>().Where(x => x.Name.StartsWith("label"));
+        //Odstranění pozadí u popisků
+        var labels = Controls.OfType<Label>().Where(x => x.Name.StartsWith("label"));
             foreach (var label in labels)
             {
                 label.BackColor = Color.Transparent;
             }
 
         }
+        //Přetahování okna po obrazovce
         protected override void OnMouseDown(MouseEventArgs e)
 
         {
@@ -47,10 +50,12 @@ namespace ChemieApp
         }
         private void button122_Click(object sender, EventArgs e)
         {
-            AboutBox1 aboutfrm = new AboutBox1();
-            aboutfrm.ShowDialog();
+            aboutapp aboutappform = new aboutapp();
+            aboutappform.ShowDialog();
         }
-
+        
+        #region Tlačítka vyvolávající informace o prvcích 
+        
         private void button2_Click(object sender, EventArgs e)
         {
             Form2 frm2 = new Form2("Vodík");
@@ -758,5 +763,7 @@ namespace ChemieApp
             Form2 frm2 = new Form2("Lawrencium");
             frm2.ShowDialog();
         }
+        #endregion
+
     }
 }

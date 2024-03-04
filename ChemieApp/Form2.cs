@@ -18,8 +18,6 @@ namespace ChemieApp
 {
     public partial class Form2 : Form
     {
-        public int x;    //can be private too
-        public string y; //can be private too
 
         public Form2(string kodprvku)
         {   
@@ -28,28 +26,25 @@ namespace ChemieApp
             
             label1.Parent = pictureBox1;
             label1.BackColor = Color.Transparent;
-            label2.Parent = pictureBox1;
-            label2.BackColor = Color.Transparent;
-            this.label2.Text = kodprvku;
+            this.label1.Text = "Informace o prvku: " + kodprvku;
 
             var xml = XDocument.Parse(Resources.prvky);
-            // creating an empty DataSet object
+            // Vytvoření datasetu
             DataSet dataSet = new DataSet();
-            // filling DataSet with the xml read
+            // Vložení dat do datasetu
             dataSet.ReadXml(xml.CreateReader());
 
-            var ds = new DataSet();
-            //ds.ReadXml(Properties.Resources.Vodik.xml);
-            this.dataGridView1.DataSource = dataSet.Tables[kodprvku]; //Tables[0]
+            this.dataGridView1.DataSource = dataSet.Tables[kodprvku];
 
             this.dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             this.dataGridView1.ColumnHeadersVisible = false;
 
         }
         private void button1_Click(object sender, EventArgs e)
-{
-this.Close();
-}
+        {
+            this.Close();
+        }
+        //Uzavření okna pomocí klávesy ESC
         protected override bool ProcessDialogKey(Keys keyData)
         {
             if (Form.ModifierKeys == Keys.None && keyData == Keys.Escape)
@@ -59,7 +54,5 @@ this.Close();
             }
             return base.ProcessDialogKey(keyData);
         }
-
-        //define some function which changes defined global values
     }
 }
