@@ -1,3 +1,3 @@
-My first C# winforms app.
+##Původní verze aplikace Chemie
 
-Just learning C# language.
+Nová verze přepsaná do WPF <a href="https://github.com/Johan5140/Chemie">zde</a>
