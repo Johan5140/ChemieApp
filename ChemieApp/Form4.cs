@@ -13,8 +13,6 @@ namespace ChemieApp
             InitializeComponent();
             this.Headline.BackColor = Properties.Settings.Default.head;
             this.comboBox1.Items.Add("Hmotnostní zlomek");
-            this.comboBox1.Items.Add("Objemový zlomek");
-            this.comboBox1.Items.Add("Molární hmornost");
             comboBox1.SelectedValue = null;
             string hdtext = Properties.Settings.Default.hdtextcolor;
             if (hdtext == "Tmavý")
@@ -103,7 +101,6 @@ namespace ChemieApp
                     {
                         panel.Hide();
                     }
-                    this.panel2.Show();
                     return;
                 }
                 //Prozatimní řešení - testování funkčnosti přepínání možností v comboboxu
