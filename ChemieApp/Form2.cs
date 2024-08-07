@@ -1,17 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
+﻿using ChemieApp.Properties;
+using System;
 using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.IO;
-using System.Reflection;
-using System.Xml;
-using ChemieApp.Properties;
 using System.Xml.Linq;
 
 namespace ChemieApp
@@ -20,14 +11,35 @@ namespace ChemieApp
     {
 
         public Form2(string kodprvku)
-        {   
-            
-            InitializeComponent();
-            
-            label1.Parent = pictureBox1;
-            label1.BackColor = Color.Transparent;
-            this.label1.Text = "Informace o prvku: " + kodprvku;
+        {
 
+            InitializeComponent();
+
+            this.Headline.Text = "Informace o prvku: " + kodprvku;
+            this.Headline.BackColor = Properties.Settings.Default.head;
+            string hdtext = Properties.Settings.Default.hdtextcolor;
+            if (hdtext == "Tmavý")
+            {
+                this.Headline.ForeColor = Color.Black;
+            }
+            if (hdtext == "Světlý")
+            {
+                this.Headline.ForeColor = Color.White;
+            }
+            string themecl = Properties.Settings.Default.theme;
+            if (themecl == "Tmavý")
+            {
+                this.BackColor = Color.FromArgb(120, 120, 120);
+                this.dataGridView1.BackColor = Color.FromArgb(120, 120, 120);
+                this.dataGridView1.DefaultCellStyle.BackColor = Color.FromArgb(120, 120, 120);
+                this.ForeColor = Color.White;
+            }
+            if (themecl == "Světlý")
+            {
+                this.dataGridView1.BackgroundColor = Color.White;
+                this.BackColor = Color.White;
+                this.ForeColor = Color.Black;
+            }
             var xml = XDocument.Parse(Resources.prvky);
             // Vytvoření datasetu
             DataSet dataSet = new DataSet();
