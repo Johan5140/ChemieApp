@@ -1,5 +1,5 @@
 Projekt aplikace Chemie.
-Informace o prvcích pochází z webu Wikipedia.
+Informace o prvcích pocházejí z webu Wikipedia.
 
 Změny:
 ------

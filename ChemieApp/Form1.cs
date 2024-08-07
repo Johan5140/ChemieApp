@@ -1,15 +1,8 @@
-﻿using ChemieApp.Properties;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
+﻿using System;
 using System.Data;
 using System.Drawing;
 using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Xml.Linq;
 
 namespace ChemieApp
 {
@@ -18,15 +11,56 @@ namespace ChemieApp
         public Form1()
         {
             InitializeComponent();
-
-        //Odstranění pozadí u popisků
-        var labels = Controls.OfType<Label>().Where(x => x.Name.StartsWith("label"));
+            this.Headline.BackColor = Properties.Settings.Default.head;
+            string hdtext = Properties.Settings.Default.hdtextcolor;
+            if (hdtext == "Tmavý")
+            {
+                this.Headline.ForeColor = Color.Black;
+            }
+            if (hdtext == "Světlý")
+            {
+                this.Headline.ForeColor = Color.White;
+            }
+            string themecl = Properties.Settings.Default.theme;
+            if (themecl == "Tmavý")
+            {
+                this.BackgroundImage = Properties.Resources.bgdark;
+                this.BackColor = Color.FromArgb(120, 120, 120);
+            }
+            if (themecl == "Světlý")
+            {
+                this.BackgroundImage = Properties.Resources.bglight;
+                this.BackColor = Color.White;
+            }
+            //Odstranění pozadí u popisků
+            var labels = Controls.OfType<Label>().Where(x => x.Name.StartsWith("label"));
             foreach (var label in labels)
             {
                 label.BackColor = Color.Transparent;
+                if (themecl == "Světlý")
+                {
+                    label.ForeColor = Color.Black;
+                }
+                if (themecl == "Tmavý")
+                {
+                    label.ForeColor = Color.White;
+                }
             }
-
+            var fncbtns = Controls.OfType<Button>().Where(x => x.Name.StartsWith("fncbtn"));
+            foreach (var fncbtn in fncbtns)
+            {
+                if (themecl == "Světlý")
+                {
+                    fncbtn.ForeColor = Color.Black;
+                }
+                if (themecl == "Tmavý")
+                {
+                    fncbtn.ForeColor = Color.White;
+                }
+            }
         }
+
+
         //Přetahování okna po obrazovce
         protected override void OnMouseDown(MouseEventArgs e)
 
@@ -53,9 +87,9 @@ namespace ChemieApp
             aboutapp aboutappform = new aboutapp();
             aboutappform.ShowDialog();
         }
-        
+
         #region Tlačítka vyvolávající informace o prvcích 
-        
+
         private void button2_Click(object sender, EventArgs e)
         {
             Form2 frm2 = new Form2("Vodík");
@@ -765,5 +799,21 @@ namespace ChemieApp
         }
         #endregion
 
+        private void button121_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Funkce není v tuto chvíli podporována!");
+        }
+
+        private void button120_Click(object sender, EventArgs e)
+        {
+            Form4 f4 = new Form4();
+            f4.ShowDialog();
+        }
+
+        private void button124_Click(object sender, EventArgs e)
+        {
+            Form5 form5 = new Form5();
+            form5.ShowDialog();
+        }
     }
 }

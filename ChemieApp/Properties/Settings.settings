@@ -1,7 +1,18 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ChemieApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="background" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bg.png</Value>
+    </Setting>
+    <Setting Name="head" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">185, 209, 234</Value>
+    </Setting>
+    <Setting Name="theme" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Světlý</Value>
+    </Setting>
+    <Setting Name="hdtextcolor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tmavý</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>

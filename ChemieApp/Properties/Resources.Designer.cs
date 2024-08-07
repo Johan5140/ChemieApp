@@ -71,8 +71,28 @@ namespace ChemieApp.Properties {
         }
         
         /// <summary>
+        ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap bgdark {
+            get {
+                object obj = ResourceManager.GetObject("bgdark", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap bglight {
+            get {
+                object obj = ResourceManager.GetObject("bglight", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Vyhledá lokalizovaný řetězec podobný Projekt aplikace Chemie.
-        ///Informace o prvcích pochází z webu Wikipedia.
+        ///Informace o prvcích pocházejí z webu Wikipedia.
         ///
         ///Změny:
         ///------

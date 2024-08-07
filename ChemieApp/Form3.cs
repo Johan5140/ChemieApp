@@ -1,13 +1,8 @@
-﻿using ChemieApp.Properties;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
+﻿using System;
 using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace ChemieApp
@@ -17,15 +12,42 @@ namespace ChemieApp
         public aboutapp()
         {
             InitializeComponent();
-            label1.Parent = pictureBox1;
-            label1.BackColor = Color.Transparent;
+            this.Headline.BackColor = Properties.Settings.Default.head;
             this.Text = String.Format("O aplikaci {0}", AssemblyTitle);
             this.label2.Text = AssemblyProduct;
-            this.label3.Text = String.Format("Verze {0}", AssemblyVersion);
+            this.label3.Text = String.Format("{0}", AssemblyVersion);
             this.label4.Text = AssemblyCopyright;
             this.label5.Text = "Aplikace je ve vývoji a nemusí fungovat správně!";
             this.richTextBox1.SelectAll();
             this.richTextBox1.SelectedText = Properties.Resources.info;
+            string hdtext = Properties.Settings.Default.hdtextcolor;
+            if (hdtext == "Tmavý")
+            {
+                this.Headline.ForeColor = Color.Black;
+            }
+            if (hdtext == "Světlý")
+            {
+                this.Headline.ForeColor = Color.White;
+            }
+            string themecl = Properties.Settings.Default.theme;
+            if (themecl == "Tmavý")
+            {
+                this.BackgroundImage = Properties.Resources.bgdark;
+                this.BackColor = Color.FromArgb(120, 120, 120);
+                this.ForeColor = Color.White;
+                this.richTextBox1.BackColor = Color.FromArgb(120, 120, 120);
+                this.richTextBox1.ForeColor = Color.White;
+            }
+            if (themecl == "Světlý")
+            {
+                this.BackgroundImage = Properties.Resources.bglight;
+                this.BackColor = Color.White;
+            }
+            var labels = Controls.OfType<Label>().Where(x => x.Name.StartsWith("label"));
+            foreach (var label in labels)
+            {
+                label.BackColor = Color.Transparent;
+            }
         }
 
         #region Přístup k atributům sestavení
